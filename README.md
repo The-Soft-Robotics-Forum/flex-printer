@@ -63,7 +63,7 @@ The original Voron printers are very fun to build, but can be an arduous process
 We have set up a dedicated [Discord channel](https://discord.gg/4RNmUT7A5G) on the Soft Robotics Forum server. It's a great way to ask for help and advice when assembling and using the printer, as well as to connect with other members of the community, and start contributing your own ideas to the project.
 
 ## How to contribute
-This is a beginner guide for forking github repositories and contributing to project. If you have prior experience, skip to [Step 6](#Step-6:-Pull-Request. If you plan to contribute to the project, keep in mind that it is under the same license as the standard Voron printers; please see the LICENSE file for full details.
+This is a beginner guide for forking github repositories and contributing to project. If you have prior experience, skip to [Step 6](#step-6:-pull-request). If you plan to contribute to the project, keep in mind that it is under the same license as the standard Voron printers; please see the LICENSE file for full details.
 ### Step 1: Fork the repo
 1. Click the "Fork" button in the top-right corner of the page - [1](https://www.freecodecamp.org/news/how-to-fork-a-github-repository/).
 2. Chose where to fork the repository.
