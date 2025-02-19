@@ -54,9 +54,9 @@ The original Voron printers are very fun to build, but can be an arduous process
 [![Demonstration of printer capabilities]()](https://vimeo.com/1057922438/d0713f3f35)
 
 ## Getting started
-- Follow the part sourcing guide in the [BOM_Sourcing_Guide](https://github.com/maksgepner/flex-printer/tree/main/BOM_Sourcing_Guide) folder to procure the parts needed to build the printer.
-- If your BOM doesn't include all of the required parts, print the remaining ones using the resources available in the [Print_These_Parts](https://github.com/maksgepner/flex-printer/tree/main/Print_These_Parts) folder.
-- Follow the build instructions in the [Build_Instructions](https://github.com/maksgepner/flex-printer/tree/main/Build_Instructions) folder to build the printer and get it ready for printing your first parts.
+- Follow the part sourcing guide in the [BOM_Sourcing_Guide](https://github.com/The-Soft-Robotics-Forum/flex-printer/tree/main/BOM_Sourcing_Guide) folder to procure the parts needed to build the printer.
+- If your BOM doesn't include all of the required parts, print the remaining ones using the resources available in the [Print_These_Parts](https://github.com/The-Soft-Robotics-Forum/flex-printer/tree/main/Print_These_Parts) folder.
+- Follow the build instructions in the [Build_Instructions](https://github.com/The-Soft-Robotics-Forum/flex-printer/tree/main/Build_Instructions) folder to build the printer and get it ready for printing your first parts.
 - Visit the [Fluidic Machine Bestiary](https://github.com/The-Soft-Robotics-Forum/fluidic-machine-bestiary) for a repository of ready-to-print monolithic robots. The Bestiary also contains an expanding library of fluidic control, actuator, and sensor components that use can use to build your own, entirely new, soft robots.
 
 ## Join the official Discord channel
