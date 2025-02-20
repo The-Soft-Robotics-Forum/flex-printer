@@ -8,7 +8,7 @@ The printer can be built for less than $500, with the total assembly time estima
 <!-- <p align="center">
 <img src=Assembly_CAD/flex-printer-features.png, width="30%">
 </img> -->
-![The key features of the Flex Printing platform](Assembly_CAD/flex-printer-features.png)
+![The key features of the Flex Printing platform](Assembly_CAD/flex-printer-features.pdf)
 
 ## Table of Contents
 * [Overarching philosophy](#overarching-philosphy)
