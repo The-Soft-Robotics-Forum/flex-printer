@@ -5,9 +5,6 @@ The Flex Printer is an open-source project aimed at solving the key print reliab
 The project is aimed at providing a democratised platform for carrying out research in soft robotics involving the printing of soft elastomers (e.g. for fluidic soft robots).
 The printer can be built for less than $500, with the total assembly time estimated at 1-3 days for first-time users (and under 1 day for those with prior experience).
 
-<!-- <p align="center">
-<img src=Assembly_CAD/flex-printer-features.png, width="30%">
-</img> -->
 ![The key features of the Flex Printing platform](Assembly_CAD/flex-printer-features.png)
 
 ## Table of Contents
